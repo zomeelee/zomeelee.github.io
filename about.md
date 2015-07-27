@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ogre--解决温饱  
+ Unity--改善伙食  
+  iOS--纯属业余爱好
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+深耕图形领域，关注移动互联网！
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zomeelee@yahoo.com](mailto:zomeelee@yahoo.com)
